@@ -1,2 +1,20 @@
 # diagrama-classes-uml
-Trabalho acadêmico de Engenharia de Software sobre Diagrama de Classes UML, abordando classe associativa e associação reflexiva em um sistema de gestão acadêmica.
+Diagrama de Classes UML
+
+Integrantes:
+
+- Vinicius Kuhn Kenor
+- Nicolas Havrechaki Martins
+
+Turma: ESOFTNB
+
+Tema
+
+Classe Associativa e Associação Reflexiva.
+
+Descrição do Projeto
+
+O trabalho apresenta um Diagrama de Classes UML de um sistema de gestão acadêmica. O sistema utiliza a classe associativa "Matricula", relacionada às classes "Aluno" e "Turma", e uma associação reflexiva na classe "Disciplina", representando os pré-requisitos entre disciplinas.
+
+- Documento: "documentos/Atividade_UML.pdf"
+- Diagramas: pasta "diagramas/", contendo os arquivos do diagrama UML.
